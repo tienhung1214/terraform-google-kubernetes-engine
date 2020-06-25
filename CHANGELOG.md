@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Extending the adopted spec, each change should have a link to its corresponding pull request appended.
 
+## [9.5.0](https://www.github.com/terraform-google-modules/terraform-google-kubernetes-engine/compare/v9.4.0...v9.5.0) (2020-06-25)
+
+
+### Features
+
+* add configconnector to safer variant ([#581](https://www.github.com/terraform-google-modules/terraform-google-kubernetes-engine/issues/581)) ([4b3f609](https://www.github.com/terraform-google-modules/terraform-google-kubernetes-engine/commit/4b3f60985ac90265c79a4c5378f8a688f642de96))
+
 ## [9.4.0](https://www.github.com/terraform-google-modules/terraform-google-kubernetes-engine/compare/v9.3.0...v9.4.0) (2020-06-25)
 
 
